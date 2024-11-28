@@ -1,0 +1,5 @@
+# Ignora a pasta de variável ambiente venv;
+/enviroments
+
+# Ignora a pasta com minhas configurações do VSCODE;
+/.vscode
